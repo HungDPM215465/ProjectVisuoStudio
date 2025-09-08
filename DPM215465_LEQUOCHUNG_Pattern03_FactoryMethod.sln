@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM215465_LEQUOCHUNG_Pattern03_FactoryMethod", "DPM215465_LEQUOCHUNG_Pattern03_FactoryMethod\DPM215465_LEQUOCHUNG_Pattern03_FactoryMethod.csproj", "{E1430D22-865F-4F4D-8B56-145EC73B83D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1430D22-865F-4F4D-8B56-145EC73B83D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1430D22-865F-4F4D-8B56-145EC73B83D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1430D22-865F-4F4D-8B56-145EC73B83D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1430D22-865F-4F4D-8B56-145EC73B83D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7610002C-F7AA-4D9E-84E1-51A4FD6DC122}
+	EndGlobalSection
+EndGlobal
