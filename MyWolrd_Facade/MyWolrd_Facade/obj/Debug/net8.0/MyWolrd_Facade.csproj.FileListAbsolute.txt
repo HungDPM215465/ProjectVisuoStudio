@@ -1,0 +1,14 @@
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\MyWolrd_Facade.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\MyWolrd_Facade.AssemblyInfoInputs.cache
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\MyWolrd_Facade.AssemblyInfo.cs
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\MyWolrd_Facade.csproj.CoreCompileInputs.cache
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\bin\Debug\net8.0\MyWolrd_Facade.exe
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\bin\Debug\net8.0\MyWolrd_Facade.deps.json
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\bin\Debug\net8.0\MyWolrd_Facade.runtimeconfig.json
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\bin\Debug\net8.0\MyWolrd_Facade.dll
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\bin\Debug\net8.0\MyWolrd_Facade.pdb
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\MyWolrd_Facade.dll
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\refint\MyWolrd_Facade.dll
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\MyWolrd_Facade.pdb
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\MyWolrd_Facade.genruntimeconfig.cache
+Z:\DPM215465_LeQuocHung\MyWolrd_Facade\MyWolrd_Facade\obj\Debug\net8.0\ref\MyWolrd_Facade.dll
